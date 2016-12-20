@@ -1,0 +1,22 @@
+{
+  "name": "apidemo",
+  "version": "1.0.0",
+  "description": "api demo which is use for experiment",
+  "main": "app.js",
+  "scripts": {
+    "test": "nothing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/raviguru123/apidemo.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "raviguru123",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.0.2",
+    "node": "0.0.0"
+  }
+}
